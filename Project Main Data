@@ -1,0 +1,144 @@
+📘 Mini Project Report on
+🎮 QUIZ GAME IN C++
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🧾 INDEX
+Sr. No.	Topic	Page No.
+1|Introduction	1
+2|About the Project	2
+3|Objectives of the Project	3
+4	|Features of the Project	4
+5	|Diagram of the Project	5
+8	|Advantages	9
+9	|Disadvantages	10
+10|Outcome of the Project	11
+11|Conclusion	12
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🧩 1. INTRODUCTION
+
+A Quiz Game is a simple yet interactive program that allows users to answer multiple-choice questions and track their score based on correct answers.
+
+In this mini project, we use C++ programming concepts such as arrays, loops, and conditional statements to design a text-based quiz. It demonstrates user interaction, logic building, and the use of control structures effectively.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+💡 2. ABOUT THE PROJECT
+
+The Quiz Game project is designed as a console-based program.
+It displays a set of multiple-choice questions one by one, accepts the user’s answer, and keeps track of the score.
+At the end of the quiz, the total score is displayed with a performance message.
+
+This project is:
+
+Simple to understand and implement.
+
+Perfect for learning basic logic and control flow in C++.
+
+A fun and educational way to test programming skills.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🎯 3. OBJECTIVES OF THE PROJECT
+
+To develop a small interactive quiz game using C++.
+
+To understand the use of arrays, loops, and decision-making statements.
+
+To implement score tracking and question-answer validation.
+
+To enhance logical thinking and coding practice through user-based input/output.
+
+To demonstrate a simple example of a text-based interactive program.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+⚙️ 4. FEATURES OF THE PROJECT
+
+Displays multiple-choice questions to the user.
+
+Tracks user score in real-time.
+
+Displays final result and feedback.
+
+Uses arrays for storing questions and answers.
+
+Uses loops for iteration through multiple questions.
+
+Fully console-based and easy to execute.✅ 7. ADVANTAGES
+
+Improves user interaction and logical understanding.
+
+Easy to implement and extend (add more questions easily).
+
+Provides instant feedback for each question.
+
+Demonstrates clear use of arrays and control structures.
+
+Helps beginners practice input/output and conditional logic.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🧭 5. DIAGRAM OF THE PROJECT
+🔹 Flowchart of Quiz Game
+          ┌──────────────────────────────┐
+          │        Start Program         │
+          └──────────────┬───────────────┘
+                         │
+             ┌───────────▼────────────┐
+             │ Display Question 1     │
+             └───────────┬────────────┘
+                         │
+            ┌────────────▼────────────┐
+            │ Get User's Answer       │
+            └────────────┬────────────┘
+                         │
+          ┌──────────────▼──────────────┐
+          │ Compare with Correct Answer │
+          └──────────────┬──────────────┘
+                         │
+             ┌───────────▼────────────┐
+             │ Update Score if Correct│
+             └───────────┬────────────┘
+                         │
+         ┌───────────────▼───────────────┐
+         │ Any More Questions Left?      │
+         └───────────────┬───────────────┘
+                         │
+           ┌─────────────▼──────────────┐
+           │ Display Final Score & Msg  │
+           └─────────────┬──────────────┘
+                         │
+                ┌────────▼────────┐
+                │     End Game    │
+                └─────────────────┘
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📊 6. OUTCOME OF THE PROJECT
+
+Successfully implemented a quiz system using C++.
+
+Gained knowledge of arrays, loops, and conditional statements.
+
+Learned how to process user input and validate answers.
+
+Built a small-scale logical program demonstrating interactivity.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🧩 7. CONCLUSION
+
+The Quiz Game in C++ demonstrates the practical use of basic programming concepts in a fun and engaging way.
+It helps beginners understand how to structure a program, manage data with arrays, and control program flow using conditionals and loops.
+
+This mini project is simple, educational, and effective — suitable for beginners who want to learn interactive console programming in C++.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✅ 8. ADVANTAGES
+
+Easy to understand and use.
+
+Enhances logical and programming skills.
+
+Interactive and educational for users.
+
+Demonstrates arrays, loops, and conditions clearly.
+
+Can be extended easily with more questions.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+⚠️ 9. DISADVANTAGES
+
+Questions are hardcoded — not stored in a file or database.
+
+No feature to record multiple players’ scores.
+
+No graphical interface (text-based only).
+
+Limited scalability — requires code modification for updates.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
